@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/quickzap.app/static/css/main.f855e6bc.css",
-    "main.js": "/quickzap.app/static/js/main.2c383ba8.js",
-    "static/js/453.a515f52a.chunk.js": "/quickzap.app/static/js/453.a515f52a.chunk.js",
-    "static/media/logo.svg": "/quickzap.app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/quickzap.app/index.html",
-    "main.f855e6bc.css.map": "/quickzap.app/static/css/main.f855e6bc.css.map",
-    "main.2c383ba8.js.map": "/quickzap.app/static/js/main.2c383ba8.js.map",
-    "453.a515f52a.chunk.js.map": "/quickzap.app/static/js/453.a515f52a.chunk.js.map"
+    "main.css": "/quickzapapp/static/css/main.f855e6bc.css",
+    "main.js": "/quickzapapp/static/js/main.a5c4c221.js",
+    "static/js/453.a515f52a.chunk.js": "/quickzapapp/static/js/453.a515f52a.chunk.js",
+    "static/media/logo.svg": "/quickzapapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/quickzapapp/index.html",
+    "main.f855e6bc.css.map": "/quickzapapp/static/css/main.f855e6bc.css.map",
+    "main.a5c4c221.js.map": "/quickzapapp/static/js/main.a5c4c221.js.map",
+    "453.a515f52a.chunk.js.map": "/quickzapapp/static/js/453.a515f52a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.2c383ba8.js"
+    "static/js/main.a5c4c221.js"
   ]
 }
