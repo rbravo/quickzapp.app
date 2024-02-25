@@ -1,3 +1,7 @@
+body {
+  background: linear-gradient(to bottom, #d3ffd3 0%, white 100%);
+}
+
 .App {
   text-align: center;
 }
@@ -35,4 +39,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.custom-border {
+  border-width: 2px !important;
+  border-color: #74b174 !important;
 }
